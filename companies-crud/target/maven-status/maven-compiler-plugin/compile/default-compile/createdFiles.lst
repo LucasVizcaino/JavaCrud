@@ -1,0 +1,9 @@
+com\debbugiandoIdeas\companiescrud\repositories\CompanyRepository.class
+com\debbugiandoIdeas\companiescrud\entity\WebSite.class
+com\debbugiandoIdeas\companiescrud\entity\Company.class
+com\debbugiandoIdeas\companiescrud\services\CompanyServiceImp.class
+com\debbugiandoIdeas\companiescrud\controllers\CompanyController.class
+com\debbugiandoIdeas\companiescrud\repositories\WebSiteRepository.class
+com\debbugiandoIdeas\companiescrud\services\CompanyService.class
+com\debbugiandoIdeas\companiescrud\entity\Category.class
+com\debbugiandoIdeas\companiescrud\CompaniesCrudApplication.class
